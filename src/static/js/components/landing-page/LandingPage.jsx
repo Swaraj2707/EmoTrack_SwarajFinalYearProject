@@ -552,11 +552,11 @@ const LandingPage = () => {
                 href="mailto:@EmoTrack.training?subject=Hello%20From%20EmoTrack"
                 className="footer-link"
               >
-                `EmoTrack@gmail.com`
+                `emotrack111@gmail.com`
               </a>
             </div>
             <div>
-              © EmoTrack
+              © EmoTrack by Swaraj Singh and Team 
               <br />
               G H Raisoni College of Engineering and Management, Pune
             </div>

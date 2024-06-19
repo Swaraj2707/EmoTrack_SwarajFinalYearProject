@@ -1,0 +1,22 @@
+
+/* Container for the entire component */
+.depressionContainer {
+    margin: 20px;
+}
+
+/* Style for each question */
+.questionItem {
+    margin-bottom: 20px;
+}
+
+
+/* Style for the question text */
+.questionText {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Style for the radio button */
+.radioInput {
+    color: #DBA979; /* Change radio button color */
+}

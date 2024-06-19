@@ -556,7 +556,7 @@ const LandingPage = () => {
               </a>
             </div>
             <div>
-              © EmoTrack by Swaraj Singh and Team 
+              © EmoTrack by Swaraj Singh and Team.
               <br />
               G H Raisoni College of Engineering and Management, Pune
             </div>

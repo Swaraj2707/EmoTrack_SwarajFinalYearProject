@@ -1,7 +1,6 @@
 {
   "name": "emotrack",
-  "homepage": "http://Swaraj2707.github.io/EmoTrack_SwarajFinalYearProject", 
-
+  "homepage": "http://Swaraj2707.github.io/EmoTrack_SwarajFinalYearProject",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +18,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.2",
     "body-parser": "^1.20.2",
-    "chart.js": "^3.9.1",
+    "chart.js": "^4.4.8",
     "cors": "^2.8.5",
     "d3-color": "^3.1.0",
     "d3-interpolate": "^3.0.1",
@@ -31,7 +30,7 @@
     "mongoose": "^8.4.0",
     "react": "^18.2.0",
     "react-calendly": "^4.3.0",
-    "react-chartjs-2": "^5.2.0",
+    "react-chartjs-2": "^5.3.0",
     "react-circular-progressbar": "^2.1.0",
     "react-countdown-circle-timer": "^3.2.1",
     "react-dom": "^18.2.0",
@@ -51,7 +50,6 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
